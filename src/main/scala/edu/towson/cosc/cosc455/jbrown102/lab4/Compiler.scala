@@ -11,7 +11,7 @@ package edu.towson.cosc.cosc455.jbrown102.lab4
   * This compiler assumes that the source file containing the sentences to parse are provided as the first
   * runtime argument. Within the source file, the compiler assumes that each sentence to parse is provided
   * on its own line.
-  */ 
+  */
 
 import scala.io.Source
 
